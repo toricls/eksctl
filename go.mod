@@ -46,7 +46,6 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.7.4
 	github.com/tidwall/sjson v1.1.6
-	github.com/tj/assert v0.0.3
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 // indirect
 	github.com/vektra/mockery v1.1.2
 	github.com/voxelbrain/goptions v0.0.0-20180630082107-58cddc247ea2 // indirect
@@ -65,7 +64,7 @@ require (
 	k8s.io/kops v1.19.0
 	k8s.io/kubelet v0.19.5
 	k8s.io/kubernetes v1.19.5
-	k8s.io/legacy-cloud-providers v0.19.5
+	k8s.io/legacy-cloud-providers v0.21.0
 	sigs.k8s.io/aws-iam-authenticator v0.5.2
 	sigs.k8s.io/mdtoc v1.0.1
 	sigs.k8s.io/yaml v1.2.0
